@@ -28,7 +28,6 @@ And insert your bot token instead of YOUR_TOKEN in the .env file
 Run the bot
 \
 ```python main.py```
-\
 
 
 In your bot, send a link to a YouTube video
