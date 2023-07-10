@@ -3,7 +3,7 @@
 This is the zero version of a bot for downloading videos from YouTube for my purposes, written “quick-and-dirty”. As time passes, I will improve and upgrade the bot.
 \
 The bot can be used for your needs according to the brief instructions below:
-\
+
 
 Сlone the repository
 \
@@ -29,7 +29,7 @@ Run the bot
 \
 ```python main.py```
 \
-\
+
 
 In your bot, send a link to a YouTube video
 Wait... Ready :tada:
