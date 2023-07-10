@@ -1,4 +1,8 @@
-# Run bot
+# YouTube Telegram Bot
+### Description and Running of the bot
+This is the zero version of a bot for downloading videos from YouTube for my purposes, written “quick-and-dirty”. As time passes, I will improve and upgrade the bot.
+
+The bot can be used for your needs according to the brief instructions below.
 
 Сlone the repository
 ```git clone https://github.com/DanisBikmaev/yt-tg-bot.git```
